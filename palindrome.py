@@ -6,3 +6,4 @@ for i in range (100,1000):
     if (t==s):
         print(i)
     
+#selam
