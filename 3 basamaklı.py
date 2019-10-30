@@ -2,7 +2,7 @@
 sayac = 0
 for i in range(100,1000):
     s=str(i)
-    if (s[0]+s[1])>s[2]:
+    if (int(s[0])+int(s[1]))==int(s[2]):
         print(s)
         sayac = sayac+1
 
