@@ -1,6 +1,5 @@
 
-
-
+#rekürsif olarak 1'den n'e sayıların çarpımı
 
 
 def çarpım(n):
