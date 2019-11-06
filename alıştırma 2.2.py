@@ -1,4 +1,4 @@
-
+^#rekürsif olarak 1'den n'e sayıların toplamı
 
 
 def toplam(n):
